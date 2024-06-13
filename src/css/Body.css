@@ -1,0 +1,27 @@
+body{
+    margin:0px;
+    padding:0px;
+    /* border:2px solid red; */
+}
+.container1{
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: center;
+    min-width: 310px;
+    align-items:center;
+    
+}
+.container2{
+    display: flex;
+    /* border: 2px solid blue; */
+    justify-content: center;
+    min-width: 310px;
+    align-items:center;
+}
+
+.body_container_card{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+
+}

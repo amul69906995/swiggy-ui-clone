@@ -1,0 +1,1 @@
+//all component then export in one go so we donot have to write import statement again and again
